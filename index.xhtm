@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Articles</title>
+  </head>
+  <body style="background-color:#3b5998">
+    <div style="text-align:left; font-family:times new roman; padding-left:310px; padding-right:320px; color:white;" >
+      <h1 style="text-align:center; padding-right:25px;">Article 1</h1>
+      <article>
+      <p style="font-size:20px;">this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.
+      this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.
+    this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.
+  this is an article.this is an article.this is an article.</p>
+  <p><blockquote style="font-size:18px;"> "this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.
+  this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.
+this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.
+this is an article.this is an article.this is an article."</blockquote></p>
+<p style="font-size:20px;">this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.
+this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.
+this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.
+this is an article.this is an article.this is an article.</p>
+<p style="font-size:20px;">this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.
+this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.
+this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.this is an article.
+this is an article.this is an article.this is an article.</p>
+</article>
+<p style="text-align:right;"><i>by-Anonymous</i></p>
+<button type="submit">👍 2K</button>
+<button type="submit">👎 60</button>
+<br /> <hr />
+<h2 style="font-family:comic sans ms;">Comments:</h2>
+<div style="padding-left:35px; font-family:comic sans ms;">
+  <p>🤵 User1: This is a Comment !!</p>
+  <p>🙍‍ User2: This one is also a Comment....</p>
+  <p>🙎‍ User3: Again a Comment.</p>
+</div>
+<br />
+<input type="text" style="width:500px; height: 100px;" placeholder="Comment here..." /><br />
+<button type="submit">Post</button>
+<form class="" action="article_review_home.xhtm" method="post">
+<p style="text-align:center;">
+<br />
+<button type="submit"> 🏠 Home</button></p>
+</form>
+
+<br /><br /><br />
+
+    </div>
+    <div>
+
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Article Review Website</title>
+</head>
+<body style="background-color:#3b5998" >
+    <h1 style="text-align: center; font-family:comic sans ms; color:white; font-size:50px;">Article Review Website</h1>
+    <p style="text-align:center; font-family:comic sans ms; color:ivory; "><i>"Post, Read and Comment on Articles"</i></p>
+    <br /><br />
+    <hr />
+    <br />
+    <br />
+    <div class="w3-container" style="text-align:center; font-family:comic sans ms; color:ivory;">
+    <p>Username : <input type="text" /><br /></p>
+    <p>&nbsp;Password : <input type="Password" /><br /></p>
+    <form class="" action="index.xhtm" method="post">
+    <button type="submit">Sign In</button>&nbsp;&nbsp;&nbsp;&nbsp;
+    <button type="submit">Sign Up</button>
+  </form><br />
+    <br /><br />
+    <hr />
+
+    </div>
+
+  </body>
+</html>
