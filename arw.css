@@ -1,0 +1,62 @@
+body{
+  background-color: #3b5998;
+}
+
+h1.x2{
+  text-align: center;
+  font-family:comic sans ms;
+  color:white;
+  font-size:50px;
+}
+
+p{
+  text-align:center;
+  font-family:comic sans ms;
+  color:ivory;
+}
+
+div.x3{
+    text-align:center;
+}
+
+p.auth{
+  text-align:right;
+  font-family:times new roman;
+}
+
+h2{
+  font-family:comic sans ms;
+}
+
+div.a1{
+  text-align:left;
+  padding-left:35px;
+  font-family:comic sans ms;
+}
+
+div.a2{
+  font-family:times new roman;
+  padding-left:310px;
+  padding-right:320px;
+  color:white;
+}
+
+blockquote{
+  font-size:18px;
+}
+
+p.a3{
+  font-size:20px;
+  text-align:left;
+  font-family:times new roman;
+}
+
+h1.x1{
+  text-align:center;
+  padding-right:25px;
+  font-family:times new roman;
+}
+
+p.z1{
+  text-align:left;
+}
